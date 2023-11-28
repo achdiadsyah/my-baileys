@@ -3,19 +3,20 @@
     <a href="https://github.com/achdiadsyah">
         <img title="Author" src="https://img.shields.io/badge/Author-Ryan Achdiadsyah-black.svg?style=for-the-badge&logo=github" alt="">
     </a>
-    </p>
-    <a href="https://github.com/achdiadsyah?tab=followers">
-        <img title="Followers" src="https://img.shields.io/github/followers/achdiadsyah?color=black&style=flat-square" alt="">
-    </a>
-    <a href="https://github.com/achdiadsyah/my-baileys/stargazers">
-        <img title="Stars" src="https://img.shields.io/github/stars/achdiadsyah/my-baileys?color=black&style=flat-square" alt="">
-    </a>
-    <a href="https://github.com/achdiadsyah/my-baileys/network/members">
-        <img title="Forks" src="https://img.shields.io/github/forks/achdiadsyah/my-baileys?color=black&style=flat-square" alt="">
+    <p>
+        <a href="https://github.com/achdiadsyah?tab=followers">
+            <img title="Followers" src="https://img.shields.io/github/followers/achdiadsyah?color=black&style=flat-square" alt="">
         </a>
-    <a href="https://github.com/achdiadsyah/my-baileys/issues">
-        <img title="Issues" src="https://img.shields.io/github/issues/achdiadsyah/my-baileys?color=black&style=flat-square" alt="">
-    </a>
+        <a href="https://github.com/achdiadsyah/my-baileys/stargazers">
+            <img title="Stars" src="https://img.shields.io/github/stars/achdiadsyah/my-baileys?color=black&style=flat-square" alt="">
+        </a>
+        <a href="https://github.com/achdiadsyah/my-baileys/network/members">
+            <img title="Forks" src="https://img.shields.io/github/forks/achdiadsyah/my-baileys?color=black&style=flat-square" alt="">
+        </a>
+        <a href="https://github.com/achdiadsyah/my-baileys/issues">
+            <img title="Issues" src="https://img.shields.io/github/issues/achdiadsyah/my-baileys?color=black&style=flat-square" alt="">
+        </a>
+    </p>
 </div>
 
 ### Important Note
