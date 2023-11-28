@@ -9,7 +9,7 @@
   "keywords": [
     "whastapp"
   ],
-  "author": "brekertabumi@gmail.com",
+  "author": "achdiadsyah@gmail.com",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
