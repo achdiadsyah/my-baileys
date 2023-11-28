@@ -5,7 +5,7 @@
     </a>
     </p>
     <a href="https://github.com/achdiadsyah?tab=followers">
-        <img title="Followers" src="https://img.shields.io/github/followers/salman0ansari?color=black&style=flat-square" alt="">
+        <img title="Followers" src="https://img.shields.io/github/followers/achdiadsyah?color=black&style=flat-square" alt="">
     </a>
     <a href="https://github.com/achdiadsyah/my-baileys/stargazers">
         <img title="Stars" src="https://img.shields.io/github/stars/achdiadsyah/my-baileys?color=black&style=flat-square" alt="">
